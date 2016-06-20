@@ -6,7 +6,7 @@ Document(file) Storage abstraction for golang
  - Single Basic Interface for storing and retrieving documents
  - Store and retrieve documents based on keys
  - Implementations
-  - Amazon S3
+  - [Amazon S3](github.com/docstore/s3storage)
   - File system
 
 ## Getting Started
