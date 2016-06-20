@@ -50,7 +50,7 @@ numBytes, err := io.Copy(newFile, getObj)
 
 
 ## Contributing
-https://github.com/docstore/service/graphs/contributors
+https://github.com/docstore/storage/graphs/contributors
  - Pull requests welcome
  - Feel free to add new docstore.Storer Implementations
 
