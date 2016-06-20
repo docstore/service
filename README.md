@@ -13,7 +13,7 @@ Document(file) Storage abstraction for golang
 
 Installing:  
 ```
- go get github.com/docstore/service
+ go get github.com/docstore/storage
 ```
 
 ## Example
